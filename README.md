@@ -23,10 +23,18 @@ Em level1
 
 
 
-para permitir c.msn.com CNAME rpz-passthru.
+Regras; 
+Exemplo permitir: *.domain.com CNAME rpz-passthru.
 
-para bloquer *.com.br CNAME .
+Exemplo bloquear: *.com.br CNAME .
 
+Exemplo bloquear: *.domain.br CNAME .
+
+
+
+
+Pesquisa de domínios, paginação, delete  
+![image](https://user-images.githubusercontent.com/38859407/111920983-ed788180-8a70-11eb-904e-485a79f3cfc2.png)
 
 
 
