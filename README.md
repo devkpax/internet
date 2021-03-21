@@ -24,6 +24,7 @@ Em level1
 
 
 Regras; 
+
 Exemplo permitir: *.domain.com CNAME rpz-passthru.
 
 Exemplo bloquear: *.com.br CNAME .
