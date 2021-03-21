@@ -5,13 +5,13 @@ SERVIÇO ON LINE!!!!!
 Serviço baseado na camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados.
 
 
-1 - salve demo.rdp autenticação username: demo password: abc@123
+1 - Salve demo.rdp usando qualquer editor de texto com extensão .rdp autenticação username: demo password: abc@123
 
-2 - tente acessar site pornograficos, downloads, etc...  
+2 - Site bloqueados pornograficos, downloads, etc...  
 
-3 - sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
+3 - Sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
 
-4 - gerenciador acesse http://192.168.0.10 registre-se com login e senha 
+4 - Gerenciador acesse http://192.168.0.10 registre-se com login e senha 
 
 ![image](https://user-images.githubusercontent.com/38859407/111920218-8d7fdc00-8a6c-11eb-868a-ea88fd30a192.png)
 
