@@ -27,7 +27,7 @@ Vá para Level1
 
 Regras; 
 
-ATENÇÃO NUNCA ADICIONE ESTE EXEMPLO SÓ COM PONTO ANTES DO DOMÍNIO: .exemplo.com.br rpz-passthru. se adicionar irá permitir tudo! Então delete está regra!   
+ATENÇÃO NUNCA ADICIONE ESTE EXEMPLO SÓ COM PONTO ANTES DO DOMÍNIO: (.exemplo.com.br rpz-passthru.) se você adicionar irá permitir tudo! Então se fizer isto delete está regra!   
 
 Exemplo permitir: *.exemplo.com CNAME rpz-passthru.
 
