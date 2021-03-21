@@ -2,7 +2,7 @@
 
 SERVIÇO ON LINE!!!!! 
 
-Serviço baseado na camada de segurança DNS utilizando Bind9 com rpz e acesso negado total na World Wide Web, permite apenas sites autorizados.
+Serviço baseado na camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados.
 
 
 1 - salve demo.rdp autenticação username: demo password: abc@123
