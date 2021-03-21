@@ -7,7 +7,7 @@ Serviço baseado na camada de segurança DNS utilizando Bind9 com rpz e acesso n
 
 1 - salve demo.rdp autenticação username: demo password: abc@123
 
-2 - tente acessar site porno, downloads, etc...  
+2 - tente acessar site pornograficos, downloads, etc...  
 
 3 - sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
 
@@ -28,9 +28,9 @@ Regras;
 
 Exemplo permitir: *.domain.com CNAME rpz-passthru.
 
-Exemplo bloquear: *.com.br CNAME .
-
-Exemplo bloquear: *.domain.br CNAME .
+Categorias de domínios (DPNs) .br .com 
+Exemplo: *.com CNAME .
+Exemplo por domínio: *.domain.br CNAME .
 
 
 
