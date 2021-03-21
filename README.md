@@ -28,12 +28,16 @@ Regras;
 
 Exemplo permitir: *.domain.com CNAME rpz-passthru.
 
-Categorias de domínios (DPNs) .br .com 
+Exemplo permitir: *domain.com CNAME rpz-passthru.
 
-Exemplo: *.com CNAME .
+Exemplo permitir: domain.com CNAME rpz-passthru.
 
-Exemplo por domínio: *.domain.br CNAME .
 
+BLoqueio Categorias de domínios (DPNs) com.br, .com, etc... 
+
+Exemplo para bloquear (DPNs): *.com CNAME .
+
+Exemplo bloquear por domínio: *.domain.br CNAME .
 
 
 
