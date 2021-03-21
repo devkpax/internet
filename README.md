@@ -1,6 +1,7 @@
 # internet
 
-SERVIÇO ON LINE!!!!! 
+SERVIÇO ON LINE!!!!!  
+
 
 Serviço baseado na camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados, dashboard desenvolvido em Laravel 5.7 PHP 7.2 
 
@@ -26,11 +27,15 @@ Vá para Level1
 
 Regras; 
 
-Exemplo permitir: *.domain.com CNAME rpz-passthru.
+ATENÇÃO NUNCA ADICIONE ESTE EXEMPLO SÓ COM PONTO ANTES DO DOMÍNIO: .exemplo.com.br rpz-passthru. se adicionar irá permitir tudo! Então delete está regra!   
 
-Exemplo permitir: *domain.com CNAME rpz-passthru.
+Exemplo permitir: *.exemplo.com CNAME rpz-passthru.
 
-Exemplo permitir: domain.com CNAME rpz-passthru.
+Exemplo permitir: *exemplo.com CNAME rpz-passthru.
+
+Exemplo permitir: exemplo.com CNAME rpz-passthru.
+
+
 
 
 BLoqueio Categorias de domínios (DPNs) com.br, .com, etc... 
@@ -38,6 +43,18 @@ BLoqueio Categorias de domínios (DPNs) com.br, .com, etc...
 Exemplo para bloquear (DPNs): *.com CNAME .
 
 Exemplo bloquear por domínio: *.domain.br CNAME .
+
+
+
+
+ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que constam código na home do site! 
+
+
+ATENÇÃO: Adicione apenas domínios! não adcione URLs!  
+
+
+
+
 
 
 
