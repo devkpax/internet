@@ -50,7 +50,7 @@ Exemplo bloquear por domínio: *.domain.br CNAME .
 ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que constam código na home do site! 
 
 
-ATENÇÃO: Adicione apenas domínios! não adcione URLs!  
+ATENÇÃO: NÃO ADICIONE URLs NEM PALAVRAS CHAVES ESTE WEB FILTER NÃO É UM PROXY, TRATA-SE DE UM SISTEMA DNS DOMAIN NAME SYSTEM !  
 
 
 
