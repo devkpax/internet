@@ -17,7 +17,8 @@ Serviço baseado na camada de segurança DNS utilizando Bind9 com rpz e acesso n
 
 
 
-Em level1 
+Vá para Level1 
+
 
 ![image](https://user-images.githubusercontent.com/38859407/111920813-d2f1d880-8a6f-11eb-8d44-bf43c8d42a65.png)
 
@@ -35,6 +36,7 @@ Exemplo bloquear: *.domain.br CNAME .
 
 
 Pesquisa de domínios, paginação, delete  
+
 
 ![image](https://user-images.githubusercontent.com/38859407/111920983-ed788180-8a70-11eb-904e-485a79f3cfc2.png)
 
