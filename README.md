@@ -2,11 +2,41 @@
 
 SERVIÇO ON LINE!!!!! 
 
-salve demo.rdp usando qualquer editor de texto e tente acessar sites pornografico, site .gov.br, uol.com.br, terra.com.br estão permitidos.
+Serviço baseado na camada de segurança DNS utilizando Bind9 com rpz e acesso negado total na World Wide Web, permite apenas sites autorizados.
 
-username: demo
 
-password:abc@123
+1 - salve demo.rdp autenticação username: demo password:abc@123
+
+2 - tente acessar site porno, downloads, etc...  
+
+3 - sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
+
+4 - gerenciador acesse http://192.168.0.10 registre-se com login e senha 
+
+![image](https://user-images.githubusercontent.com/38859407/111920218-8d7fdc00-8a6c-11eb-868a-ea88fd30a192.png)
+
+
+
+Em level1 
+
+![image](https://user-images.githubusercontent.com/38859407/111920813-d2f1d880-8a6f-11eb-8d44-bf43c8d42a65.png)
+
+
+
+para permitir c.msn.com CNAME rpz-passthru.
+
+para bloquer *.com.br CNAME .
+
+
+
+
+
+
+
+
+
+
+
 
 
 
