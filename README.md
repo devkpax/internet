@@ -29,7 +29,9 @@ Regras;
 Exemplo permitir: *.domain.com CNAME rpz-passthru.
 
 Categorias de domínios (DPNs) .br .com 
+
 Exemplo: *.com CNAME .
+
 Exemplo por domínio: *.domain.br CNAME .
 
 
