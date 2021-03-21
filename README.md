@@ -35,6 +35,7 @@ Exemplo bloquear: *.domain.br CNAME .
 
 
 Pesquisa de domínios, paginação, delete  
+
 ![image](https://user-images.githubusercontent.com/38859407/111920983-ed788180-8a70-11eb-904e-485a79f3cfc2.png)
 
 
