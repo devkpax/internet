@@ -13,8 +13,8 @@ Serviço baseado na camada de segurança DNS Bind9 rpz, drop total na World Wide
 
 4 - Gerenciador acesse http://192.168.0.10 registre-se com login e senha 
 
-![image](https://user-images.githubusercontent.com/38859407/111920218-8d7fdc00-8a6c-11eb-868a-ea88fd30a192.png)
-
+![image](https://user-images.githubusercontent.com/38859407/111921681-9ffe1380-8a74-11eb-82ba-35c5340a8ec4.png)
+ 
 
 
 Vá para Level1 
