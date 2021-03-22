@@ -1,6 +1,6 @@
 # Internet
 
-SERVIÇO OFF LINE!!!!!  
+SERVIÇO ON LINE!!!!!  
 
 
 Serviço baseado na camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados, dashboard desenvolvido em Laravel 5.7 PHP 7.2 
