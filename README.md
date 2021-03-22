@@ -1,9 +1,9 @@
-#  Internet Security Based Bind9 rpz DNS layer 
+#  Internet Security Based Bind9 rpz DNS layer  
 
 SERVIÇO ON LINE!!!!!  
 
 
-Serviço baseado na camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados, dashboard desenvolvido em Laravel 5.7 PHP 7.2 
+Filtro da web simples e poderoso camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados, dashboard desenvolvido em Laravel 5.7 PHP 7.2 
 
 
 1 - Salve demo.rdp usando qualquer editor de texto com extensão .rdp 
