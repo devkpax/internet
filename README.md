@@ -1,15 +1,19 @@
-#  Internet Security Based Bind9 rpz DNS layer SERVIÇO ON LINE!!!!! 
-
+#  Internet Security Based Bind9 rpz DNS layer SERVIÇO ON LINE apenas para fins de teste para filtragem de Internet!!! 
 
 # Filtro da web simples e poderoso camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados. 
-# Dashboard desenvolvido em Laravel 5.7 PHP 7.2 
+
+
+# Se usados IP´s publicos para implementar essa infraestrutura, as mesmas regras de gerenciamento de Internet aplicadas aqui funcionaram qualquer dispositivo remoto, notebooks ou celulares.   
+
 
 
 
 ========================================================================================================================================================================================
 
 
-# Conheça a infraestrutura do projeto  
+
+
+# Conheça a infraestrutura  responsável do projeto Paulo Asevedo  
 # Servidor físico notebook DELL i3 8GB RAM 
 
 ![image](https://user-images.githubusercontent.com/38859407/112074254-ad8aca80-8b54-11eb-9ace-bfa8a460ba60.png)
@@ -33,6 +37,7 @@
 
  ========================================================================================================================================================================================
 
+# Dashboard em Laravel 5.7 PHP 7.2 developer Paulo Asevedo 
 # MANUAL DO USUÁRIO
 
 
