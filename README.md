@@ -3,7 +3,7 @@
 # Filtro da web simples e poderoso camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados. 
 
 
-# Se usados IP´s publicos para implementar essa infraestrutura, as mesmas regras de gerenciamento de Internet aplicadas aqui funcionaram qualquer dispositivo remoto, notebooks ou celulares.   
+# Se usados IP´s publicos para implementar essa infraestrutura, as mesmas regras de gerenciamento de Internet aplicadas aqui funcionaram qualquer dispositivo notebooks e  celulares remotos.   
 
 
 
