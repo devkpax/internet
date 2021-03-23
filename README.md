@@ -90,7 +90,7 @@
 
 
 
-# Pesquisa de domínios, paginação, delete  
+# Recursos da aplicação pesquisa de domínios, paginação, delete domain   
 
 
 ![image](https://user-images.githubusercontent.com/38859407/111920983-ed788180-8a70-11eb-904e-485a79f3cfc2.png)
