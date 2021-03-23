@@ -12,7 +12,7 @@
  
 
 
-# VM 
+# VM Linux  
 
 ![image](https://user-images.githubusercontent.com/38859407/112075650-a87b4a80-8b57-11eb-9008-f4d7fe1d122a.png)
  
