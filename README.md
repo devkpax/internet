@@ -1,9 +1,33 @@
-#  Internet Security Based Bind9 rpz DNS layer  
+#  Internet Security Based Bind9 rpz DNS layer SERVIÇO ON LINE!!!!! 
+ 
+# Filtro da web simples e poderoso camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados, dashboard desenvolvido em Laravel 5.7 PHP 7.2 
 
-SERVIÇO ON LINE!!!!!  
+
+# Infraestrutura do projeto  
+
+# Servidor físico notebook DELL i3 8GB RAM 
+
+![image](https://user-images.githubusercontent.com/38859407/112074254-ad8aca80-8b54-11eb-9ace-bfa8a460ba60.png)
+ 
+ 
 
 
-Filtro da web simples e poderoso camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados, dashboard desenvolvido em Laravel 5.7 PHP 7.2 
+# VM 
+
+![image](https://user-images.githubusercontent.com/38859407/112075650-a87b4a80-8b57-11eb-9008-f4d7fe1d122a.png)
+ 
+
+
+
+
+# VM Windows Server 2019 
+
+![image](https://user-images.githubusercontent.com/38859407/112074614-749f2580-8b55-11eb-8021-b015fc8bbc77.png)
+ 
+
+
+
+ 
 
 
 1 - Salve demo.rdp usando qualquer editor de texto com extensão .rdp 
