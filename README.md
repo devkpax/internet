@@ -27,8 +27,7 @@
 
 # VM Windows Server 2019 
 
-![image](https://user-images.githubusercontent.com/38859407/112074614-749f2580-8b55-11eb-8021-b015fc8bbc77.png)
- 
+![image](https://user-images.githubusercontent.com/38859407/112077149-9c44bc80-8b5a-11eb-9792-ba0a269144e1.png)
 
 
 
