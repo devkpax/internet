@@ -9,7 +9,7 @@
 ========================================================================================================================================================================================
 
 
-# Infraestrutura do projeto  
+# Conheça a infraestrutura do projeto  
 # Servidor físico notebook DELL i3 8GB RAM 
 
 ![image](https://user-images.githubusercontent.com/38859407/112074254-ad8aca80-8b54-11eb-9ace-bfa8a460ba60.png)
@@ -32,7 +32,10 @@
 
 
 
- 
+ ========================================================================================================================================================================================
+
+# MANUAL DO USUÁRIO
+
 
 
 # 1 - Salve demo.rdp usando qualquer editor de texto com extensão .rdp 
