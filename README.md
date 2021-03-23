@@ -13,7 +13,8 @@
 
 
 
-# Conheça a infraestrutura  responsável do projeto Paulo Asevedo  
+# Conheça a infraestrutura 
+# Responsável pelo  projeto Paulo Asevedo desenvolvedor FullStack PHP Node.js Angular Analista de Redes Infraestrutura servidores      
 # Servidor físico notebook DELL i3 8GB RAM 
 
 ![image](https://user-images.githubusercontent.com/38859407/112074254-ad8aca80-8b54-11eb-9ace-bfa8a460ba60.png)
