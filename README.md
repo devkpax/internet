@@ -76,7 +76,7 @@ Servidor físico notebook DELL i3 8GB RAM
 3 - exemplo.com CNAME rpz-passthru.
 
 
-# Atenção este não use este exemplo ponto antes do domínimo: .exemplo.com.br rpz-passthru. se você adicionar irá liberar tudo, se fizer isso delete essa regra!   
+# Atenção nunca utilize aspas e não use ponto antes do domínio: ".exemplo.com.br rpz-passthru." se você adicionar irá liberar tudo, se fizer isso delete essa regra!   
 
 # Bloqueio Categorias de domínios (DPNs) com.br, .com, etc... 
 
