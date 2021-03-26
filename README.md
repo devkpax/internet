@@ -76,30 +76,29 @@ Servidor físico notebook DELL i3 8GB RAM
 3 - exemplo.com CNAME rpz-passthru.
 
 
-# Atenção nunca utilize aspas e não use ponto antes do domínio: ".exemplo.com.br rpz-passthru." se você adicionar irá liberar tudo, se fizer isso delete essa regra!   
+Atenção nunca utilize aspas e não use ponto antes do domínio: ".exemplo.com.br rpz-passthru." se você adicionar irá liberar tudo, se fizer isso delete essa regra!   
 
 # Bloqueio Categorias de domínios (DPNs) com.br, .com, etc... 
 
-# Não use áspras: 
+Não use áspras: 
 
 Exemplo correto bloqueio DPNs:  *.com CNAME .
 
-Exemplo correto bloqueio DPNs: *com CNAME .
+Exemplo correto bloqueio DPNs:  *com CNAME .
 
-Exemplo correto bloqueio DPNs: com CNAME .
+Exemplo correto bloqueio DPNs:  com CNAME .
 
-Exemplo bloquear domínio: *.domain.br CNAME .
+Exemplo bloquear domínio:  *.domain.br CNAME .
 
-
-# ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que constam código na home do site! 
-
-
-# ATENÇÃO: NÃO ADICIONE URLs NEM PALAVRAS CHAVES ESTE WEB FILTER NÃO É UM PROXY, TRATA-SE DE UM SISTEMA DNS DOMAIN NAME SYSTEM !  
+Exemplo errado:  .domain.br CNAME .
 
 
 
+ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que estão código do site! 
 
-# Recursos da aplicação adiciona domínios faz pesquisa de domínios, paginação, delete domain   
+ATENÇÃO: NÃO ADICIONE URLs NEM PALAVRAS CHAVES ESTE WEB FILTER NÃO É UM PROXY, TRATA-SE DE UM SISTEMA DNS DOMAIN NAME SYSTEM !  
+
+Recursos da aplicação adiciona domínios faz pesquisa de domínios, paginação, delete domain   
 
 
 ![image](https://user-images.githubusercontent.com/38859407/111920983-ed788180-8a70-11eb-904e-485a79f3cfc2.png)
