@@ -43,7 +43,7 @@
 
 
 
-# 1 - Salve demo.rdp usando qualquer editor de texto com extensão demo.rdp 
+# 1 - Salve demo.rdp usando qualquer editor de texto com extensão .rdp 
 
 # 2 - Site bloqueados pornograficos, downloads, etc...  
 
