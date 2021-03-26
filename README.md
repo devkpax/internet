@@ -74,23 +74,21 @@ Whitelist: *exemplo.com CNAME rpz-passthru.
 
 Whitelist: exemplo.com CNAME rpz-passthru.
 
-Exemplo errado: .exemplo.com CNAME rpz-passthru.
+Exemplo whitelist errado ponto antes do domínio: .exemplo.com CNAME rpz-passthru.
 
-Atenção nunca utilize aspas e não use ponto antes do domínio exemplo: ".exemplo.com.br rpz-passthru." se você adicionar irá permitir tudo, se fizer isso delete essa regra!   
+Atenção nunca adicione ponto antes do domínio se você adicionar essa regra permitirá tudo, se fizer isso delete a regra!   
 
 # Blacklist categorias de domínios (DPNs) com.br, .com, etc... 
 
-Não use áspras: 
+Blacklist DPNs correto:  *.com CNAME .
 
-Blacklist DPNs:  *.com CNAME .
+Blacklist DPNs correto:  *com CNAME .
 
-Blacklist DPNs:  *com CNAME .
+Blacklist DPNs correto:  com CNAME .
 
-Blacklist DPNs:  com CNAME .
+Blacklist correto:  *.domain.br CNAME .
 
-Blacklist:  *.domain.br CNAME .
-
-Exemplo errado:  .domain.br CNAME .
+Exemplo blacklist errado ponto antes do domínio:  .domain.br CNAME .
 
 
 ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que estão código do site! 
