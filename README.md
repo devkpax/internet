@@ -66,37 +66,36 @@ Servidor físico notebook DELL i3 8GB RAM
 
 # Regras; 
 
+# Exemplo whitelist não use aspas:
 
-# Exemplo permitir não use aspas:
+Whitelist: *.exemplo.com CNAME rpz-passthru.
 
-1 - *.exemplo.com CNAME rpz-passthru.
+Whitelist: *exemplo.com CNAME rpz-passthru.
 
-2 - *exemplo.com CNAME rpz-passthru.
+Whitelist: exemplo.com CNAME rpz-passthru.
 
-3 - exemplo.com CNAME rpz-passthru.
-
+Exemplo errado: .exemplo.com CNAME rpz-passthru.
 
 Atenção nunca utilize aspas e não use ponto antes do domínio exemplo: ".exemplo.com.br rpz-passthru." se você adicionar irá permitir tudo, se fizer isso delete essa regra!   
 
-# Bloqueio Categorias de domínios (DPNs) com.br, .com, etc... 
+# Blacklist categorias de domínios (DPNs) com.br, .com, etc... 
 
 Não use áspras: 
 
-Exemplo correto bloqueio DPNs:  *.com CNAME .
+Blacklist DPNs:  *.com CNAME .
 
-Exemplo correto bloqueio DPNs:  *com CNAME .
+Blacklist DPNs:  *com CNAME .
 
-Exemplo correto bloqueio DPNs:  com CNAME .
+Blacklist DPNs:  com CNAME .
 
-Exemplo bloquear domínio:  *.domain.br CNAME .
+Blacklist:  *.domain.br CNAME .
 
 Exemplo errado:  .domain.br CNAME .
 
 
-
 ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que estão código do site! 
 
-ATENÇÃO: NÃO ADICIONE URLs NEM PALAVRAS CHAVES ESTE WEB FILTER NÃO É UM PROXY, TRATA-SE DE UM SISTEMA DNS DOMAIN NAME SYSTEM !  
+ATENÇÃO: Não adicione urls nem palavras chaves este web filter não é um proxy, trta-se de DNS DOMAIN NAME SYSTEM!  
 
 Recursos da aplicação adiciona domínios faz pesquisa de domínios, paginação, delete domain   
 
