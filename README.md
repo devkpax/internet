@@ -13,9 +13,9 @@ Se usado IP´s publicos para implementar essa infraestrutura, as mesmas regras d
 
 
 
-Conheça a infraestrutura 
+Conheça a infraestrutura:  
 
-Responsável pelo  projeto Paulo Asevedo desenvolvedor FullStack PHP Node.js Angular Analista de Redes Infraestrutura servidores
+Responsável pelo projeto Paulo Asevedo é autodidata web developer fullStack analista de redes infraestrutura computacionais.
 
 Servidor físico notebook DELL i3 8GB RAM 
 
