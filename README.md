@@ -1,9 +1,9 @@
-#  Internet Security Based Bind9 rpz DNS layer SERVIÇO ON LINE apenas para fins de teste para filtragem de Internet!!! 
+#  Internet Security Based Bind9 rpz DNS layer ON LINE, apenas para fins de teste para filtragem de Internet!!! 
 
-# Filtro da web simples e poderoso camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados. 
+Filtro da web simples e poderoso camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados. 
 
 
-# Se usado IP´s publicos para implementar essa infraestrutura, as mesmas regras de gerenciamento de Internet aplicadas aqui funcionaram qualquer dispositivo notebooks e  celulares remotos.   
+Se usado IP´s publicos para implementar essa infraestrutura, as mesmas regras de gerenciamento de Internet aplicadas aqui funcionaram qualquer dispositivo notebooks e  celulares remotos.   
 
 
 
@@ -13,9 +13,11 @@
 
 
 
-# Conheça a infraestrutura 
-# Responsável pelo  projeto Paulo Asevedo desenvolvedor FullStack PHP Node.js Angular Analista de Redes Infraestrutura servidores      
-# Servidor físico notebook DELL i3 8GB RAM 
+Conheça a infraestrutura 
+
+Responsável pelo  projeto Paulo Asevedo desenvolvedor FullStack PHP Node.js Angular Analista de Redes Infraestrutura servidores
+
+Servidor físico notebook DELL i3 8GB RAM 
 
 ![image](https://user-images.githubusercontent.com/38859407/112074254-ad8aca80-8b54-11eb-9ace-bfa8a460ba60.png)
  
@@ -43,13 +45,13 @@
 
 
 
-# 1 - Salve demo.rdp usando qualquer editor de texto com extensão .rdp 
+ 1 - Salve demo.rdp usando qualquer editor de texto com extensão .rdp 
 
-# 2 - Site bloqueados pornograficos, downloads, etc...  
+ 2 - Site bloqueados pornograficos, downloads, etc...  
 
-# 3 - Sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
+ 3 - Sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
 
-# 4 - Gerenciador acesse http://192.168.0.10 registre-se com login e senha 
+ 4 - Gerenciador acesse http://192.168.0.10 registre-se com login e senha 
 
 ![image](https://user-images.githubusercontent.com/38859407/111921681-9ffe1380-8a74-11eb-82ba-35c5340a8ec4.png)
  
@@ -64,24 +66,29 @@
 
 # Regras; 
 
-# ATENÇÃO NUNCA ADICIONE ESTE EXEMPLO ".exemplo.com.br rpz-passthru." PONTO ANTES DO DOMÍNIO: se você adicionar irá liberar tudo, se fizer isso delete a regra!   
 
-# Exemplo permitir: *.exemplo.com CNAME rpz-passthru.
+# Exemplo permitir não use aspas:
 
-# Exemplo permitir: *exemplo.com CNAME rpz-passthru.
+1 - *.exemplo.com CNAME rpz-passthru.
 
-# Exemplo permitir: exemplo.com CNAME rpz-passthru.
+2 - *exemplo.com CNAME rpz-passthru.
 
-
-
-
-# BLoqueio Categorias de domínios (DPNs) com.br, .com, etc... 
-
-# Exemplo para bloquear (DPNs): *.com CNAME .
-
-# Exemplo bloquear por domínio: *.domain.br CNAME .
+3 - exemplo.com CNAME rpz-passthru.
 
 
+# Atenção este não use este exemplo ponto antes do domínimo: .exemplo.com.br rpz-passthru. se você adicionar irá liberar tudo, se fizer isso delete essa regra!   
+
+# Bloqueio Categorias de domínios (DPNs) com.br, .com, etc... 
+
+# Não use áspras: 
+
+Exemplo correto bloqueio DPNs:  *.com CNAME .
+
+Exemplo correto bloqueio DPNs: *com CNAME .
+
+Exemplo correto bloqueio DPNs: com CNAME .
+
+Exemplo bloquear domínio: *.domain.br CNAME .
 
 
 # ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que constam código na home do site! 
@@ -92,10 +99,7 @@
 
 
 
-
-
-
-# Recursos da aplicação pesquisa de domínios, paginação, delete domain   
+# Recursos da aplicação adiciona domínios faz pesquisa de domínios, paginação, delete domain   
 
 
 ![image](https://user-images.githubusercontent.com/38859407/111920983-ed788180-8a70-11eb-904e-485a79f3cfc2.png)
