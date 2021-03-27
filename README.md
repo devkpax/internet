@@ -1,11 +1,9 @@
-#  Internet Security Based Bind9 rpz DNS layer ON LINE, apenas para fins de teste para filtragem de Internet!!! 
-
-Filtro da web simples e poderoso camada de segurança DNS Bind9 rpz, drop total na World Wide Web, permite apenas sites autorizados. 
+#  Serviço apenas para teste regras do web filter 
 
 
-Se usado IP´s publicos para implementar essa infraestrutura, as mesmas regras de gerenciamento de Internet aplicadas aqui funcionaram em dispositivo remotos notebooks e  celulares e em quqluer disposito que use DNS para navegar na Internet.   
+Simples e poderoso DNS layer Bind9 rpz, drop total World Wide Web, whitelist apenas sites autorizados. 
 
-
+Gerenciamento centralizado de Internet em dispositivos remotos notebooks e celulares etc...   
 
 
 ========================================================================================================================================================================================
