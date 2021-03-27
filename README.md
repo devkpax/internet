@@ -16,9 +16,6 @@ Conheça a infraestrutura:
 Responsável pelo projeto Paulo Asevedo é autodidata web developer fullStack analista de redes infraestrutura computacionais.
 
 Servidor físico notebook DELL i3 8GB RAM 
-
-![image](https://user-images.githubusercontent.com/38859407/112074254-ad8aca80-8b54-11eb-9ace-bfa8a460ba60.png)
- 
  
 
 
