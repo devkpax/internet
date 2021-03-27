@@ -3,7 +3,7 @@
 
 Simples e poderoso DNS layer Bind9 rpz, drop total World Wide Web, whitelist apenas sites autorizados. 
 
-Gerenciamento centralizado de Internet em dispositivos remotos notebooks e celulares etc...   
+Gerenciamento de Internet centralizado em dispositivos remotos notebooks e celulares etc...   
 
 
 ========================================================================================================================================================================================
