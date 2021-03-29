@@ -6,32 +6,6 @@ Simples e poderoso DNS layer Bind9 rpz, drop total World Wide Web, whitelist ape
 Gerenciamento de Internet centralizado em dispositivos remotos notebooks e celulares etc...   
 
 
-========================================================================================================================================================================================
-
-
-
-
-Conheça a infraestrutura:  
-
-Responsável pelo projeto Paulo Asevedo é autodidata web developer fullStack analista de redes infraestrutura computacionais.
-
-Servidor físico notebook DELL i3 8GB RAM 
- 
-
-
-# VM Linux  
-
-![image](https://user-images.githubusercontent.com/38859407/112075650-a87b4a80-8b57-11eb-9008-f4d7fe1d122a.png)
- 
-
-
-
-
-# VM Windows Server 2019 
-
-![image](https://user-images.githubusercontent.com/38859407/112077149-9c44bc80-8b5a-11eb-9792-ba0a269144e1.png)
-
-
 
  ========================================================================================================================================================================================
 
@@ -98,6 +72,31 @@ Recursos da aplicação adiciona domínios faz pesquisa de domínios, paginaçã
 
 
 
+
+========================================================================================================================================================================================
+
+
+
+
+Conheça a infraestrutura:  
+
+Responsável pelo projeto Paulo Asevedo é autodidata web developer fullStack analista de redes infraestrutura computacionais.
+
+Servidor físico notebook DELL i3 8GB RAM 
+ 
+
+
+# VM Linux  
+
+![image](https://user-images.githubusercontent.com/38859407/112075650-a87b4a80-8b57-11eb-9008-f4d7fe1d122a.png)
+ 
+
+
+
+
+# VM Windows Server 2019 
+
+![image](https://user-images.githubusercontent.com/38859407/112077149-9c44bc80-8b5a-11eb-9792-ba0a269144e1.png)
 
 
 
