@@ -43,21 +43,18 @@ Whitelist: *exemplo.com CNAME rpz-passthru.
 
 Whitelist: exemplo.com CNAME rpz-passthru.
 
+
+![image](https://user-images.githubusercontent.com/38859407/113518973-eae15600-955f-11eb-871d-716522636632.png)
+
+
+
 Exemplo whitelist errado ponto antes do domínio: .exemplo.com CNAME rpz-passthru.
 
 Atenção nunca adicione ponto antes do domínio se você adicionar essa regra permitirá tudo, se fizer isso delete a regra!   
 
 # Blacklist categorias de domínios (DPNs) com.br, .com, etc... 
 
-Blacklist DPNs correto:  *.com CNAME .
-
-Blacklist DPNs correto:  *com CNAME .
-
-Blacklist DPNs correto:  com CNAME .
-
-Blacklist correto:  *.domain.br CNAME .
-
-Exemplo blacklist errado ponto antes do domínio:  .domain.br CNAME .
+![image](https://user-images.githubusercontent.com/38859407/113518913-9b9b2580-955f-11eb-9771-e0b952d506d0.png)
 
 
 ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que estão código do site! 
