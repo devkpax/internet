@@ -35,31 +35,21 @@ Gerenciamento de Internet centralizado em dispositivos remotos notebooks e celul
 
 # Regras; 
 
-# Exemplo whitelist não use aspas:
+# Exemplo whitelist:
 
-Whitelist: *.exemplo.com CNAME rpz-passthru.
+![image](https://user-images.githubusercontent.com/38859407/113519078-63e0ad80-9560-11eb-87e7-ee227957d8f4.png)
 
-Whitelist: *exemplo.com CNAME rpz-passthru.
-
-Whitelist: exemplo.com CNAME rpz-passthru.
-
-
-![image](https://user-images.githubusercontent.com/38859407/113518973-eae15600-955f-11eb-871d-716522636632.png)
-
-
-
-Exemplo whitelist errado ponto antes do domínio: .exemplo.com CNAME rpz-passthru.
-
-Atenção nunca adicione ponto antes do domínio se você adicionar essa regra permitirá tudo, se fizer isso delete a regra!   
+ 
 
 # Blacklist categorias de domínios (DPNs) com.br, .com, etc... 
 
-![image](https://user-images.githubusercontent.com/38859407/113518913-9b9b2580-955f-11eb-9771-e0b952d506d0.png)
+![image](https://user-images.githubusercontent.com/38859407/113519102-84a90300-9560-11eb-8356-6607c19035ce.png)
+
 
 
 ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que estão código do site! 
 
-ATENÇÃO: Não adicione urls nem palavras chaves este web filter não é um proxy, trta-se de DNS DOMAIN NAME SYSTEM!  
+ATENÇÃO: Não adicione urls nem palavras chaves este web filter não é um proxy, trata-se de um DOMAIN NAME SYSTEM!  
 
 Recursos da aplicação adiciona domínios faz pesquisa de domínios, paginação, delete domain   
 
