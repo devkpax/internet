@@ -20,7 +20,7 @@ Gerenciamento de Internet centralizado em dispositivos remotos notebooks e celul
 
  3 - Sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
 
- 4 - Gerenciador acesse https://www.evencom.com.br com login e senha 
+ 4 - Gerenciador acesse www.websecurity.com.br com login e senha 
 
 ![image](https://user-images.githubusercontent.com/38859407/111921681-9ffe1380-8a74-11eb-82ba-35c5340a8ec4.png)
  
