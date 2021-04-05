@@ -1,9 +1,9 @@
-#  Serviço apenas para teste regras do web filter 
+#  Serviço apenas para teste das regras do web filter 
 
 
 Simples e poderoso DNS layer Bind9 rpz, drop total World Wide Web, whitelist apenas sites autorizados. 
 
-Gerenciamento de Internet centralizado em dispositivos remotos notebooks e celulares etc...   
+Solução para o gerenciamento centralizado de Internet em dispositivos remotos notebooks e celulares etc...   
 
 
 
