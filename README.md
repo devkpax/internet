@@ -1,7 +1,7 @@
 #  Serviço apenas para teste das regras do web filter 
 
 
-Simples e poderoso DNS layer Bind9 rpz, drop total World Wide Web, whitelist apenas sites autorizados. 
+Simples e poderoso DNS layer Bind9, drop total World Wide Web, whitelist apenas sites autorizados. 
 
 Solução para o gerenciamento centralizado de Internet em dispositivos remotos notebooks e celulares etc...   
 
@@ -14,7 +14,7 @@ Solução para o gerenciamento centralizado de Internet em dispositivos remotos 
 
 
 
- 1 - Salve demo.rdp usando qualquer editor de texto com extensão .rdp 
+ 1 - Adicione DNS 131.0.255.33 no seu roteador ou no adaptador de rede do seu dispositivo  
 
  2 - Crie login e senha gerenciador www.websecurity.com.br  
 
