@@ -9,7 +9,7 @@ Solução para o gerenciamento centralizado de Internet em dispositivos remotos 
 
  ========================================================================================================================================================================================
 
-# Dashboard em Laravel 5.7 PHP 7.2 developer Paulo Asevedo 
+# Dashboard em Laravel 5.7 PHP 7.4 
 # MANUAL DO USUÁRIO
 
 
@@ -31,7 +31,8 @@ Solução para o gerenciamento centralizado de Internet em dispositivos remotos 
 # Em Webfilter aplique as regras que desejar       
 
 
-![image](https://user-images.githubusercontent.com/38859407/136391460-70f9dad1-99ab-4368-b78c-20b69c3bc465.png)
+
+![image](https://user-images.githubusercontent.com/38859407/136391723-dade4660-bf93-4798-8c0d-d17be30f41b1.png)
 
 
 
