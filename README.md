@@ -38,61 +38,22 @@ Solução para o gerenciamento centralizado de Internet em dispositivos remotos 
 
 # Regras; 
 
-# Exemplo whitelist:
+Para permitir um domínio primeiro faça um Scanvírus        
 
-![image](https://user-images.githubusercontent.com/38859407/113519078-63e0ad80-9560-11eb-87e7-ee227957d8f4.png)
+![image](https://user-images.githubusercontent.com/38859407/136392270-63b79ec4-c6ba-40ef-9a02-ba3282282f4a.png)
 
  
-
 # Blacklist categorias de domínios (DPNs) com.br, .com, etc... 
 
-![image](https://user-images.githubusercontent.com/38859407/113519102-84a90300-9560-11eb-8356-6607c19035ce.png)
+![image](https://user-images.githubusercontent.com/38859407/136392476-1c675821-d11b-43b0-a47a-f94d8f449636.png)
 
 
-
-ATENÇÃO: Sites notícias como UOL, GLOBO, MSN, é necessário adicionar todos domínios que estão código do site! 
-
-ATENÇÃO: Não adicione urls nem palavras chaves este web filter não é um proxy, trata-se de um DOMAIN NAME SYSTEM!  
-
-Recursos da aplicação adiciona domínios faz pesquisa de domínios, paginação, delete domain   
-
-
-![image](https://user-images.githubusercontent.com/38859407/111920983-ed788180-8a70-11eb-904e-485a79f3cfc2.png)
+# whitelist domínios  
 
 
 
 
-
-========================================================================================================================================================================================
-
-
-
-
-Conheça a infraestrutura:  
-
-Responsável pelo projeto Paulo Asevedo é autodidata web developer fullStack analista de redes infraestrutura computacionais.
-
-Servidor físico notebook DELL i3 8GB RAM 
  
-
-
-# VM Linux  
-
-![image](https://user-images.githubusercontent.com/38859407/112075650-a87b4a80-8b57-11eb-9008-f4d7fe1d122a.png)
- 
-
-
-
-
-# VM Windows Server 2019 
-
-![image](https://user-images.githubusercontent.com/38859407/112077149-9c44bc80-8b5a-11eb-9792-ba0a269144e1.png)
-
-
-
-
-
-
 
 
 
