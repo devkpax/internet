@@ -14,17 +14,18 @@ Solução para o gerenciamento centralizado de Internet em dispositivos remotos 
 
 
 
- 1 - Adicione DNS 131.0.255.33 no seu roteador ou no adaptador de rede do seu dispositivo  
+ 1 - Crie login e senha gerenciador www.websecurity.com.br  
 
- 2 - Crie login e senha gerenciador www.websecurity.com.br  
+ 2 - Adicione apenas nosso DNS 131.0.255.33 no seu roteador ou no adaptador de rede do seu dispositivo   
 
  3 - Site bloqueados pornograficos, downloads, etc...  
 
  4 - Sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
 
-
-![image](https://user-images.githubusercontent.com/38859407/111921681-9ffe1380-8a74-11eb-82ba-35c5340a8ec4.png)
+ 5 - Vá em Add IP Users e adicione o IP válido da rede.   
  
+ ![image](https://user-images.githubusercontent.com/38859407/136390945-7c021c1a-9aff-49a9-b30b-45f0be19b558.png)
+
 
 
 # Vá para Level1 
