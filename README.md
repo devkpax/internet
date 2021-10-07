@@ -22,16 +22,16 @@ Solução para o gerenciamento centralizado de Internet em dispositivos remotos 
 
  4 - Sites autorizados .gov.br, uol.com.br, terra.com.br estão permitidos.
 
- 5 - Vá em Add IP Users e adicione o IP válido da rede.   
+ 5 - Vá em Add IP Users e adicione apenas o IP válido da rede que os usuário (os), estão navegando.   
  
  ![image](https://user-images.githubusercontent.com/38859407/136390945-7c021c1a-9aff-49a9-b30b-45f0be19b558.png)
 
 
 
-# Vá para Level1 
+# Em Webfilter aplique as regras que desejar       
 
 
-![image](https://user-images.githubusercontent.com/38859407/111920813-d2f1d880-8a6f-11eb-8d44-bf43c8d42a65.png)
+![image](https://user-images.githubusercontent.com/38859407/136391460-70f9dad1-99ab-4368-b78c-20b69c3bc465.png)
 
 
 
